@@ -1,12 +1,19 @@
-# React + Vite
+# React-Redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+User can select perform following actions: 
+1. Select different colors using picker
+2. View the current selected color
+3. Remove or Re-select from color history list
 
-Currently, two official plugins are available:
+**Below are the UI Snapshots of ```Redux Color Picker``` main page**
+---
+  ### Components
+1. **Color Display**
+   ![History List](https://github.com/user-attachments/assets/2c04d8fe-28e2-4a2a-81a7-ea7cc2d1b014)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+2. **Color Picker**
+    ![App Preview](https://github.com/user-attachments/assets/7509de0d-1911-4c26-9b32-117511202b63)
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Ref. [Redux Libraries](https://github.com/reduxjs)
