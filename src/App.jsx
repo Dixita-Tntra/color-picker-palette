@@ -1,5 +1,4 @@
 import React from 'react';
-import './index.css'; // or './App.css' if you're using a separate file
 import ColorPicker from './components/ColorPicker';
 import ColorDisplay from './components/ColorDisplay';
 
