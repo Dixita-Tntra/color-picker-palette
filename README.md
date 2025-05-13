@@ -12,7 +12,9 @@
 
   2. **Color Picker**
 
+  ![image](https://github.com/user-attachments/assets/ec20f1c4-263d-4d5d-b8e9-6069e6189119)
   ![App Preview](https://github.com/user-attachments/assets/7509de0d-1911-4c26-9b32-117511202b63)
+
 ---
 
 Ref. [Redux Libraries](https://github.com/reduxjs)
